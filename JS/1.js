@@ -1,1 +1,1 @@
-alert('Hello, Osamu');
+alert('Hello, Osamu in JS Folder');
